@@ -33,7 +33,7 @@ int main() {
     if (laAnagram(kitu1, kitu2)) {
         printf(" la anagram.\n");
     } else {
-        printf(" khog phai là anagram .\n");
+        printf("khong phai la anagram .\n");
     }
 
     return 0;
